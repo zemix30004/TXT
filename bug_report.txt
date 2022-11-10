@@ -7,9 +7,9 @@ ID-01,
   2. Scroll down the page,
   3. Click on the link "ПУНКТИ САМОВИВОЗУ,
   4. Pay attention to the language of the page text,
- Actual result":"The content is displayed in Russian on the page "ПУНКТИ САМОВИВОЗУ,
+ Actual result-The content is displayed in Russian on the page "ПУНКТИ САМОВИВОЗУ,
  Expected result-The content is displayed in Ukrainian on the page "ПУНКТИ САМОВИВОЗУ,
  Severity-minor,
  Priority-medium,
- Attachments-1.http://joxi.ru/vAWkbz7s3PqEDA   2.https://www.screencast.com/t/ROOjQTu6eCa,
+ Attachments-1.http://joxi.ru/vAWkbz7s3PqEDA   2.https://www.screencast.com/t/ROOjQTu6eCa.
 
